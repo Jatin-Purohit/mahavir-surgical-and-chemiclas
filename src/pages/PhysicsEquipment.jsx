@@ -320,7 +320,7 @@ const PhysicsEquipment = () => {
             <button
               onClick={() =>
                 window.open(
-                  "https://wa.me/919876543210?text=Hello! I need physics lab setup for my institution.",
+                  "https://wa.me/919817137130?text=Hello! I need physics lab setup for my institution.",
                   "_blank"
                 )
               }

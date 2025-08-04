@@ -333,7 +333,7 @@ const Sports = () => {
             <button
               onClick={() =>
                 window.open(
-                  "https://wa.me/919876543210?text=Hello! I need sports equipment for my team/institution.",
+                  "https://wa.me/919817137130?text=Hello! I need sports equipment for my team/institution.",
                   "_blank"
                 )
               }

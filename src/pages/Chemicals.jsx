@@ -262,7 +262,7 @@ const Chemicals = () => {
             <button
               onClick={() =>
                 window.open(
-                  "https://wa.me/919876543210?text=Hello! I need bulk chemicals for my institution.",
+                  "https://wa.me/919817137130?text=Hello! I need bulk chemicals for my institution.",
                   "_blank"
                 )
               }
